@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Facebook_post</string>
+    <string name="profile_icon">profile_icon</string>
+    <string name="unblast">Unblast</string>
+    <string name="post_hrs">2 hrs</string>
+    <string name="global_icon">global_icon</string>
+    <string name="first_line">Buckle up, becouse change is coming to WordPress</string>
+    <string name="second_line_link">http://unblast.com/colorr-schemes</string>
+    <string name="menu_icon">menu_icon</string>
+    <string name="post_view">post_view</string>
+    <string name="post_like">post_like</string>
+    <string name="post_like_numbers">12</string>
+    <string name="share_number">1 Share</string>
+    <string name="small_profile_icon">small_profile_icon</string>
+    <string name="small_dop_down_icon">small_dop_down_icon</string>
+    <string name="like_text">Like</string>
+    <string name="icon_button">icon_button</string>
+    <string name="comment_post_text">Comment</string>
+    <string name="share_button">Share</string>
+</resources>
